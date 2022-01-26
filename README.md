@@ -13,6 +13,8 @@ Conhecedor das seguintes tecnologias:
 - Bootstrap/ csss;
 - JavaScript-Angular);
 - M. Ágeis -SCRUM;
+- C#
+- 
 
 ---
 
